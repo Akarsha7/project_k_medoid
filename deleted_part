@@ -1,0 +1,7 @@
+'''             if(temp_total_dist<min_cost):
+                        replace_index = randint(0,3)
+                        replace_med_point=select_points(1)
+                        med_points[replace_index]=replace_med_point
+                else:
+                        flag = 1'''
+
